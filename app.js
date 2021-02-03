@@ -77,7 +77,7 @@ function addTask(e) {
     // Append li to ul
     taskList.appendChild(li);
 
-    // Ztore in LS
+    // Store in LS
     storeTaskInLocalStorage(taskInput.value);
 
     // CLear input
