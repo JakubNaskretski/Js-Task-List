@@ -135,7 +135,7 @@ function removeTaskFromLocalStoarge(taskItem){
 
 // Clear Tasks
 function clearTasks() {
-    // taskList.innerHTML = '';
+    // taskList.innerHTML = ''; 
 
     // Faster option
     // While there is still first child (smth in the list)
